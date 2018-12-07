@@ -1,0 +1,21 @@
+if (5 > 2) {
+  console.log("5 is greater than 2")
+}
+
+var bool = false;
+
+if(!bool){
+  console.log("this is false")
+  console.log("this is true")
+}
+
+
+bool = true;
+
+
+if(!bool){
+  console.log("this is false 2")
+}else{
+  console.log("this is true 2")
+}
+
